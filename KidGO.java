@@ -1,4 +1,4 @@
-public class KigGO {
+public class KidGO {
     public static void main(String[] args) {
         // Code
     }
