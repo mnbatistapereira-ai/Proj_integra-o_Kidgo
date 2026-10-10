@@ -6,11 +6,9 @@ public class Aluno {
     private String nomeEscola;
     private String enderecoEscola;
 
-    public Aluno(
-        String nomeAluno, String enderecoAluno,
-        String nomeResponsavel, String telefoneResponsavel,
-        String nomeEscola, String enderecoEscola
-    ) {
+    public Aluno(String nomeAluno, String enderecoAluno,
+            String nomeResponsavel, String telefoneResponsavel,
+            String nomeEscola, String enderecoEscola) {
         this.nomeAluno = nomeAluno;
         this.enderecoAluno = enderecoAluno;
         this.nomeResponsavel = nomeResponsavel;
